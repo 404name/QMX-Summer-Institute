@@ -1,0 +1,1 @@
+select * from loan into outfile 'd:\loan.txt' fields terminated by ',';

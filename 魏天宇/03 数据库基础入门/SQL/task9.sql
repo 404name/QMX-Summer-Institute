@@ -1,0 +1,1 @@
+select * from loanhist where DATE_FORMAT(borrowDate,'%Y') = '2019';

@@ -1,0 +1,1 @@
+select bname,author,press,price from bookinfo where author = '兰苓' or author =  '孙海涛' or author =  '刘明';;

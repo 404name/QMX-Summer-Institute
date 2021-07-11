@@ -1,0 +1,1 @@
+select sum(amount) from money where reason = '办证押金';

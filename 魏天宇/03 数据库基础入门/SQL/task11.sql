@@ -1,0 +1,1 @@
+select bname,author,press,price from bookinfo where bname like '%数据库%';

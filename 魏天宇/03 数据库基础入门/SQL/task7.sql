@@ -1,0 +1,1 @@
+select * from books where (location = '流通总库' or location = '计算机学院资料室') and  bstatus != '1';

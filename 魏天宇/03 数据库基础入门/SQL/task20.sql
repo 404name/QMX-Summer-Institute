@@ -1,0 +1,1 @@
+select avg(datediff(returnDate,borrowDate)) from loanhist group by loanNo;

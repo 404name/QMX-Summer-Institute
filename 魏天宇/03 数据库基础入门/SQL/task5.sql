@@ -1,0 +1,1 @@
+select loanNo ,bookNo from loan where now() - borrowDate > 60;

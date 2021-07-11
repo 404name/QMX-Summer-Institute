@@ -1,0 +1,18 @@
+alter table users add amount decimal;
+update users set amount=100 where loanNo = 'G01000';
+update users set amount=100 where loanNo = 'J00010';
+update users set amount=100 where loanNo = 'J00011';
+update users set amount=100 where loanNo = 'S02151';
+update users set amount=100 where loanNo = 'S02152';
+update users set amount=100 where loanNo = 'S02153';
+update users set amount=100 where loanNo = 'S06102';
+update users set amount=100 where loanNo = 'S06103';
+update users set amount=100 where loanNo = 'T02001';
+update users set amount=100 where loanNo = 'X10462';
+update users set amount=100 where loanNo = 'X10463';
+update users set amount=100 where loanNo = 'X12089';
+update users set amount=100 where loanNo = 'X15601';
+update users set amount=100 where loanNo = 'X15602';
+update users set amount=100 where loanNo = 'Y00001';
+update users set amount=100 where loanNo = 'Y00002';
+update users set amount=100 where loanNo = 'Y00003';

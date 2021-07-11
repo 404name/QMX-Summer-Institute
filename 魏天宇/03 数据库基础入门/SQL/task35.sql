@@ -1,0 +1,1 @@
+select distinct loanNo from loan;

@@ -1,0 +1,1 @@
+select  bname,author,press,price from bookinfo order by price limit 5;

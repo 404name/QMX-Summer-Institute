@@ -1,0 +1,1 @@
+select * from bookinfo where price > 30 and price < 50;

@@ -1,0 +1,1 @@
+select press from bookinfo group by press;

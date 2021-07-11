@@ -1,0 +1,1 @@
+select bname,author,press from bookinfo where language = '中文' and press = '清华大学出版社';

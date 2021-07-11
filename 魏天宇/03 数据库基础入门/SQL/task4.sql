@@ -1,0 +1,1 @@
+select * from reservation where rstatus = 'f';
